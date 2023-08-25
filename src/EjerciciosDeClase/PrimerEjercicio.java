@@ -15,6 +15,8 @@ public class PrimerEjercicio {
             opcion = scanner.nextInt();
             switch (opcion){
                 case 1:
+                    break;
+
 
             }
 
